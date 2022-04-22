@@ -16,7 +16,7 @@ public class Book {
         return bookName;
     }
 
-    public Author getAuthorName() {
+    public Author getNameAuthor() {
 
         return authorName;
     }
